@@ -7,5 +7,5 @@
 |git add .|Datei dem Index hinzufügen|
 |git commit -m "TEXT"| Datei einem Zeitpunkt zuweisen|
 |git checkout -b "TEXT"| Einen Branch erstellen|
-|git checkout| Zurück in den Main Branch|
+|git checkout| Zurück in den main Branch|
 |git merge "Branch"|Ausgewählten Branch mit main verschmelzen|
